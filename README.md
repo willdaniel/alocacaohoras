@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An internal web application for time allocation and team management. It allows employees to log work hours against projects, while managers review requests. Includes a KPI dashboard, an internal news/alerts system, and robust role-based access control (RBAC). The stack features a React (Vite + MUI) frontend and a Node.js (Express) backend with a PostgreSQL database.
 
 Currently, two official plugins are available:
 
